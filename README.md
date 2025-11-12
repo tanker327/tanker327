@@ -4,16 +4,7 @@
 
 # Hi 👋, I'm Eric Wu
 
-<p style="animation: float 3s ease-in-out infinite;">
-<strong><em>Talk is cheap. Here's my work.</em></strong>
-</p>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-</style>
+__Talk is cheap. Here's my work.__
 
 </div>
 
