@@ -1,10 +1,10 @@
-<table>
+<table width="100%">
 <tr>
 <td width="60%">
 
-# Hi 👋, I'm Eric Wu
+<h1> Hi 👋, I'm Eric Wu</h1>
 
-__Talk is cheap. Here's my work.__
+<b>Talk is cheap. Here's my work.</b >
 
 </td>
 <td width="40%">
