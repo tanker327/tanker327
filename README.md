@@ -1,18 +1,17 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-<div style="flex: 6; text-align: center;">
+<table>
+<tr>
+<td width="60%">
 
 # Hi 👋, I'm Eric Wu
 
 __Talk is cheap. Here's my work.__
 
-</div>
-
-<div style="flex: 4; text-align: center;">
+</td>
+<td width="40%">
 <img align="center" width="320" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <div align="left" style="border-bottom: 1px solid #ddd;">
 
@@ -26,7 +25,7 @@ __Talk is cheap. Here's my work.__
 
 [🛠️ DevsBestFriend.com](https://www.devsbestfriend.com/) [🤖 ModelPK.com](https://www.modelpk.com/)
 
- [𝕏 xtract](https://github.com/tanker327/xtract) [📝 prompts-mcp-server](https://github.com/tanker327/prompts-mcp-server) [🔑 uuid-mcp](https://github.com/tanker327/uuid-mcp) [#️⃣ md5-mcp](https://github.com/tanker327/md5-mcp) [🕷️ WebRobber](https://github.com/tanker327/WebRobber) [⚙️ polling-service-manager](https://github.com/tanker327/polling-service-manager)
+ [𝕏 xtract](https://github.com/tanker327/xtract) [📝 prompts-mcp-server](https://www.npmjs.com/package/prompts-mcp-server) [🔑 uuid-mcp](https://www.npmjs.com/package/uuid-mcp) [#️⃣ md5-mcp](https://www.npmjs.com/package/md5-mcp) [🕷️ WebRobber](https://www.npmjs.com/package/webrobber) [⚙️ polling-service-manager](https://www.npmjs.com/package/polling-service-manager)
 
 </div>
 
