@@ -1,21 +1,27 @@
-<table align="center" style="border: none;">
-<tr style="border: none;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-<td align="center" width="60%" style="border: none;">
-<div align="center">
+<div style="flex: 6; text-align: center;">
 
 # Hi 👋, I'm Eric Wu
 
-__Talk is cheap. Here's my work.__
+<p style="animation: float 3s ease-in-out infinite;">
+<strong><em>Talk is cheap. Here's my work.</em></strong>
+</p>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+</style>
 
 </div>
 
-</td>
-<td align="center" width="40%" style="border: none;">
+<div style="flex: 4; text-align: center;">
 <img align="center" width="320" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <div align="left" style="border-bottom: 1px solid #ddd;">
 
@@ -25,10 +31,11 @@ __Talk is cheap. Here's my work.__
 
 </div>
 
-<div align="center" style="border-bottom: 1px solid #ddd">
+<div align="center" style="border-bottom: 1px solid #ddd; padding-top: 2px;">
 
 [🛠️ DevsBestFriend.com](https://www.devsbestfriend.com/) [🤖 ModelPK.com](https://www.modelpk.com/)
- [🔍 xtract](https://github.com/tanker327/xtract) [📝 prompts-mcp-server](https://github.com/tanker327/prompts-mcp-server) [🔑 uuid-mcp](https://github.com/tanker327/uuid-mcp) [#️⃣ md5-mcp](https://github.com/tanker327/md5-mcp) [🕷️ WebRobber](https://github.com/tanker327/WebRobber) [⚙️ polling-service-manager](https://github.com/tanker327/polling-service-manager)
+
+ [𝕏 xtract](https://github.com/tanker327/xtract) [📝 prompts-mcp-server](https://github.com/tanker327/prompts-mcp-server) [🔑 uuid-mcp](https://github.com/tanker327/uuid-mcp) [#️⃣ md5-mcp](https://github.com/tanker327/md5-mcp) [🕷️ WebRobber](https://github.com/tanker327/WebRobber) [⚙️ polling-service-manager](https://github.com/tanker327/polling-service-manager)
 
 </div>
 
