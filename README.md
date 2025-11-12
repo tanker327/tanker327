@@ -16,7 +16,9 @@
 <div align="left" style="border-bottom: 1px solid #ddd;">
 
 ⚡ **Philosophy** - Write clean code for humans, optimize for machines, use AI for both. Get things done, never struggle with tools
+
 🐳 **Lifestyle** - Floating in the cloud, Living in Docker containers，Automating everything, Leading with AI, Coding for impact
+
 🚀 **Current Focus** - Map the missions and let my AI friends do the work. Then collect the trophies.
 
 </div>
