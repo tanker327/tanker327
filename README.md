@@ -19,8 +19,6 @@
 
 🐳 **Lifestyle** : Floating in the cloud, Living in containers, Automating everything, Pair-programming with AI to bend reality a bit.
 
-👔 **Leadership** : Bridge engineering & business; empower teams through mentorship; lead by example, not by title.
-
 🚀 **Current Focus** : Map the missions, Orchestrate agents, Deliver the innovations, Scale the revolution.
 
 </div>
