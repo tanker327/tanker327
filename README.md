@@ -17,25 +17,19 @@
 
 ⚡ **Philosophy** : Write clean code for humans, Optimize for machines, Use AI for both; Get things done, never struggle with tools
 
-🐳 **Lifestyle** : Floating in the cloud, Living in Docker containers，Automating everything, Coding with AI to change the world
+🐳 **Lifestyle** : Floating in the cloud, Living in containers，Automating everything, Coding with AI to change the world
 
 🚀 **Current Focus** : Map the missions and Orchestrate AI agents, Deliver the innovations, Scale the revolution
-
-
-
 
 </div>
 
 <div align="center" style="border-bottom: 1px solid #ddd; padding-top: 2px;">
 
-[🛠️ DevsBestFriend.com](https://www.devsbestfriend.com/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🤖 ModelPK.com](https://www.modelpk.com/)
+[🛠️ DevsBestFriend.com](https://www.devsbestfriend.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🤖 ModelPK.com](https://www.modelpk.com/)
 
- [𝕏 xtract](https://github.com/tanker327/xtract)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [🕷️ WebRobber](https://www.npmjs.com/package/webrobber)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [⚙️ polling-service-manager](https://www.npmjs.com/package/polling-service-manager)
- 
- [📝 prompts-mcp-server](https://www.npmjs.com/package/prompts-mcp-server)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [🔑 uuid-mcp](https://www.npmjs.com/package/uuid-mcp)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [#️⃣ md5-mcp](https://www.npmjs.com/package/md5-mcp)
+[𝕏 xtract](https://github.com/tanker327/xtract) &nbsp;&nbsp;&nbsp;&nbsp; [🕷️ WebRobber](https://www.npmjs.com/package/webrobber) &nbsp;&nbsp;&nbsp;&nbsp; [⚙️ polling-service-manager](https://www.npmjs.com/package/polling-service-manager) &nbsp;&nbsp;&nbsp;&nbsp;[📝 prompts-mcp-server](https://www.npmjs.com/package/prompts-mcp-server) &nbsp;&nbsp;&nbsp;&nbsp; [🔑 uuid-mcp](https://www.npmjs.com/package/uuid-mcp) &nbsp;&nbsp;&nbsp;&nbsp; [#️⃣ md5-mcp](https://www.npmjs.com/package/md5-mcp)
 
 </div>
-
 
 <div align="center">
 
