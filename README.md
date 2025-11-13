@@ -31,9 +31,9 @@
 
 📚 **Libs:**  &nbsp;&nbsp;&nbsp;[𝕏 xtract](https://github.com/tanker327/xtract) &nbsp;&nbsp;&nbsp;[🕷️ WebRobber](https://www.npmjs.com/package/webrobber) &nbsp;&nbsp;&nbsp;[⚙️ polling-service-manager](https://www.npmjs.com/package/polling-service-manager)
 
-🔌 **MCP:**  &nbsp;&nbsp;&nbsp;[📝 prompts-mcp-server](https://www.npmjs.com/package/prompts-mcp-server) &nbsp;&nbsp;&nbsp;&nbsp;[🔑 uuid-mcp](https://www.npmjs.com/package/uuid-mcp) &nbsp;&nbsp;&nbsp;&nbsp;[#️⃣ md5-mcp](https://www.npmjs.com/package/md5-mcp)
+🔌 **MCPs:**  &nbsp;&nbsp;&nbsp;[📝 prompts-mcp-server](https://www.npmjs.com/package/prompts-mcp-server) &nbsp;&nbsp;&nbsp;&nbsp;[🔑 uuid-mcp](https://www.npmjs.com/package/uuid-mcp) &nbsp;&nbsp;&nbsp;&nbsp;[#️⃣ md5-mcp](https://www.npmjs.com/package/md5-mcp)
 
-💡 **SKILLS:**  &nbsp;&nbsp;&nbsp;[🏪 my-marketplace](https://github.com/tanker327/my-marketplace)
+💡 **Skills:**  &nbsp;&nbsp;&nbsp;[🏪 my-marketplace](https://github.com/tanker327/my-marketplace)
 
 </div>
 
