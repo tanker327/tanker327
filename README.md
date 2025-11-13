@@ -4,7 +4,7 @@
 
 <h1>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi 👋, I'm Eric  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
 
-<b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talk is cheap. Here's my code.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b >
+<b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talk is cheap. Here's my code.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
 
 </td>
 <td width="40%">
@@ -15,11 +15,11 @@
 
 <div align="left" style="border-bottom: 1px solid #ddd;">
 
-⚡ **Philosophy** : Write clean code for humans, Optimize for machines, Use AI for both; Ship fast, never fight your tools.
+⚡ **Philosophy** : Write clean code for humans, Optimize for machines, Use AI for both; Ship fast & never fight your tools.
 
 🐳 **Lifestyle** : Floating in the cloud, Living in containers, Automating everything, Pair-programming with AI to bend reality a bit.
 
-🚀 **Current Focus** : Map the missions, Orchestrate agents, Deliver the innovations, Scale the revolution
+🚀 **Current Focus** : Map the missions, Orchestrate agents, Deliver the innovations, Scale the revolution.
 
 </div>
 
@@ -41,10 +41,6 @@
 
 <div align="right">
 
-
-
-
 👋 **Thanks for visiting!** Feel free to reach out for anything!
-
 
 </div>
