@@ -23,7 +23,7 @@
 
 </div>
 
-<div align="center" style="border-bottom: 1px solid #ddd; padding-top: 2px;">
+<div align="left" style="border-bottom: 1px solid #ddd; padding-top: 2px;">
 
 **Website:**  &nbsp;&nbsp;&nbsp;[🛠️ DevsBestFriend.com](https://www.devsbestfriend.com/) &nbsp;&nbsp;&nbsp;&nbsp;[🤖 ModelPK.com](https://www.modelpk.com/)
 
@@ -31,7 +31,10 @@
 
 </div>
 
+---
+
 <div align="center">
+
 "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." - Linus Torvalds
 
 **Thanks for visiting!** Feel free to reach out for anything!
