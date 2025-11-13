@@ -2,9 +2,9 @@
 <tr>
 <td width="60%">
 
-<h1> Hi 👋, I'm Eric</h1>
+<h1>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi 👋, I'm Eric  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
 
-<b>Talk is cheap. Here's my code.</b >
+<b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talk is cheap. Here's my code.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b >
 
 </td>
 <td width="40%">
@@ -25,9 +25,15 @@
 
 <div align="left" style="border-bottom: 1px solid #ddd; padding-top: 2px;">
 
-🌐 **Website:**  &nbsp;&nbsp;&nbsp;[🛠️ DevsBestFriend.com](https://www.devsbestfriend.com/) &nbsp;&nbsp;&nbsp;&nbsp;[🤖 ModelPK.com](https://www.modelpk.com/)
+🌐 **Websites:**  &nbsp;&nbsp;&nbsp;[🛠️ DevsBestFriend.com](https://www.devsbestfriend.com/) &nbsp;&nbsp;&nbsp;&nbsp;[🤖 ModelPK.com](https://www.modelpk.com/)
 
-🔧 **Tools:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[𝕏 xtract](https://github.com/tanker327/xtract) &nbsp;&nbsp;&nbsp; [🕷️ WebRobber](https://www.npmjs.com/package/webrobber) &nbsp;&nbsp;&nbsp; [⚙️ polling-service-manager](https://www.npmjs.com/package/polling-service-manager) &nbsp;&nbsp;&nbsp;[📝 prompts-mcp-server](https://www.npmjs.com/package/prompts-mcp-server) &nbsp;&nbsp;&nbsp; [🔑 uuid-mcp](https://www.npmjs.com/package/uuid-mcp) &nbsp;&nbsp;&nbsp; [#️⃣ md5-mcp](https://www.npmjs.com/package/md5-mcp)
+🔧 **Tools:**  &nbsp;&nbsp;&nbsp;[🎤 nerd-voice](https://github.com/tanker327/nerd-voice) &nbsp;&nbsp;&nbsp;[🖱️ mouse-jiggler](https://github.com/tanker327/mouse-jiggler)
+
+📚 **Libs:**  &nbsp;&nbsp;&nbsp;[𝕏 xtract](https://github.com/tanker327/xtract) &nbsp;&nbsp;&nbsp;[🕷️ WebRobber](https://www.npmjs.com/package/webrobber) &nbsp;&nbsp;&nbsp;[⚙️ polling-service-manager](https://www.npmjs.com/package/polling-service-manager)
+
+🔌 **MCP:**  &nbsp;&nbsp;&nbsp;[📝 prompts-mcp-server](https://www.npmjs.com/package/prompts-mcp-server) &nbsp;&nbsp;&nbsp;&nbsp;[🔑 uuid-mcp](https://www.npmjs.com/package/uuid-mcp) &nbsp;&nbsp;&nbsp;&nbsp;[#️⃣ md5-mcp](https://www.npmjs.com/package/md5-mcp)
+
+💡 **SKILLS:**  &nbsp;&nbsp;&nbsp;[🏪 my-marketplace](https://github.com/tanker327/my-marketplace)
 
 </div>
 
