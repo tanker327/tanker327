@@ -17,7 +17,7 @@
 
 ⚡ **Philosophy** : Write clean code for humans, Optimize for machines, Use AI for both; Get things done, never struggle with tools
 
-🐳 **Lifestyle** : Floating in the cloud, Living in containers，Automating everything, Coding with AI to change the world
+🐳 **Lifestyle** : Floating in the cloud, Living in containers, Automating everything, Coding with AI to change the world
 
 🚀 **Current Focus** : Map the missions and Orchestrate AI agents, Deliver the innovations, Scale the revolution
 
@@ -32,8 +32,7 @@
 </div>
 
 <div align="center">
-
-### 💡 "Keep reinventing the wheel, but rounder"
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." - Linus Torvalds
 
 **Thanks for visiting!** Feel free to reach out for anything!
 
