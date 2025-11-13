@@ -15,7 +15,9 @@
 
 <div align="left" style="border-bottom: 1px solid #ddd;">
 
-⚡ **Philosophy** : Write clean code for humans, Optimize for machines, Use AI for both; Ship fast & never fight your tools.
+⚡ **Philosophy** : Write clean code for humans, Optimize for machines, Use AI for both; Lead teams with empathy, Ship fast & never fight your tools.
+
+👔 **Leadership** : Bridge engineering & business, Empower teams through mentorship, Turn technical challenges into strategic opportunities, Lead by example, not by title.
 
 🐳 **Lifestyle** : Floating in the cloud, Living in containers, Automating everything, Pair-programming with AI to bend reality a bit.
 
