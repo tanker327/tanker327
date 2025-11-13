@@ -17,7 +17,7 @@
 
 ⚡ **Philosophy** - Write clean code for humans, Optimize for machines, Use AI for both; Get things done, never struggle with tools
 
-🐳 **Lifestyle** - Floating in the cloud, Living in Docker containers，Automating everything, Powered with AI, Coding to change the world
+🐳 **Lifestyle** - Floating in the cloud, Living in Docker containers，Automating everything, Coding with AI to change the world
 
 🚀 **Current Focus** - Map the missions and Orchestrate AI agents, Deliver the innovations, Scale the revolution
 
