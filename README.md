@@ -13,7 +13,7 @@
 </tr>
 </table>
 
-<div align="left" style="border-bottom: 1px solid #ddd;">
+<div align="center" style="border-bottom: 1px solid #ddd;">
 
 ⚡ **Philosophy** - Write clean code for humans, Optimize for machines, Use AI for both; Get things done, never struggle with tools
 
