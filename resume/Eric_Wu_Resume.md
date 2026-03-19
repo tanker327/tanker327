@@ -42,7 +42,7 @@ Leading architecture and development of Portfolio Intelligence 2.0 — a next-ge
 
 ---
 
-### Master Builder — Loopdoop LLC (Personal Projects)
+### Master Builder — Loopdoop LLC 
 **Jan 2024 – Present**
 
 - Built **Juicer** & **Keeper** — a full AI content pipeline that ingests, processes, and backs up multiple platform content using multi-model AI processors (taxonomy, signals, summarization, fact-checking) with async workers and S3-compatible storage.
