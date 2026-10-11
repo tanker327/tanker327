@@ -1,99 +1,92 @@
 # Eric Wu
 
-📞 (201) 785-7827 | 📧 eric.wuge@gmail.com | 🔗 [linkedin.com/in/eric-wu-tl](https://linkedin.com/in/eric-wu-tl)
+📧 eric.wuge@gmail.com | 🔗 [linkedin.com/in/eric-wu-tl](https://linkedin.com/in/eric-wu-tl) | 💻 [github.com/tanker327](https://github.com/tanker327)
 
 ---
 
 ## About Me
 
-- Good programmer who writes clean code for humans, optimizes for machines, and uses AI for both — ship fast and never fight your tools.
-- Tech lead who focuses on the final product and gets the team there. Keep reinventing the wheel, but rounder every time.
-- Floating in the cloud, living in containers, automating everything, pair-programming with AI to bend reality a bit.
-- Currently focused on orchestrating agents, delivering innovations, and scaling the revolution.
+I've been shipping software for 15+ years: consulting, then ad tech, then life insurance, and now finance at JPMorgan Chase, where I lead a frontend team. Outside of work I build AI agent systems and run them on a homelab that's more serious than it needs to be.
+
+I think AI is the biggest shift I'll see in my career, and the best way I know to get ready for it is to build with it. I write code for people first and machines second, and these days I use AI for both.
+
+I keep reinventing the wheel. It gets a little rounder every time.
 
 ---
 
-## Technical Skills
+## Skills
 
-| | |
-|---|---|
-| **Languages** | JS/TS, Python, Go, Swift, SQL, Shell Script |
-| **AI / LLM** | LLM APIs, Claude Agent SDK, LangChain, RAG, Local LLM Inference (vLLM, llama.cpp), Qdrant |
-| **Frontend** | React, TanStack, shadcn/ui, Tailwind CSS, single-spa, ag-grid, Zedux, Playwright |
-| **Backend** | Node.js, Bun, Express.js, GraphQL, Flask, hey-api |
-| **Infrastructure** | Docker, Kubernetes, AWS, Google Cloud, Proxmox, GitHub Actions |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Turso/libSQL |
+- **Programming languages:** TypeScript/JavaScript, Python, Go, Swift, SQL, shell
+- **AI:** Claude Agent SDK, Pi Agent SDK, LangChain, RAG, multi-agent pipelines, local inference (vLLM, llama.cpp), Qdrant, LanceDB
+- **Frontend:** React, TanStack, shadcn/ui, Tailwind CSS, single-spa, ag-grid, Zedux, Playwright
+- **Backend:** Node.js, Bun, Hono, Express, GraphQL, Flask, BullMQ, pg-boss, hey-api
+- **Infrastructure:** Docker, Kubernetes, AWS, Google Cloud, Proxmox, GitHub Actions
+- **Databases:** PostgreSQL, MySQL, MongoDB, Turso/libSQL
+- **Human languages:** English, Chinese
 
 ---
 
 ## Work Experience
 
-### Vice President, Lead Software Engineer — JPMorgan Chase, Jersey City, NJ
-**Nov 2024 – Present**
+### JPMorgan Chase, Jersey City, NJ
+**Vice President, Lead Software Engineer** | Nov 2024 – Present
 
-Leading architecture and development of Portfolio Intelligence 2.0 — a next-generation corporate portfolio asset management platform featuring a multi-window frontend and real-time SSE streaming for a modern, high-performance experience.
+Tech lead and architect for Portfolio Intelligence 2.0, the rebuild of our corporate portfolio asset management platform.
 
-- Leading a frontend team as Tech Lead and architect for the PI 2.0 platform rebuild.
-- Designed and implemented a multi-window frontend architecture with real-time SSE integration, using single-spa for micro-frontend composition and ag-grid for high-performance data rendering.
-- Built with JPMorgan's internal Salt DS design system and Zedux for state management, with Playwright covering end-to-end testing.
-- Driving AI adoption initiatives across the engineering team, including building an agentic Jira-to-code workflow to accelerate the full development lifecycle.
+- Lead the frontend team and own the architecture: a multi-window app stitched together from single-spa micro-frontends, with real-time updates over SSE and ag-grid for the big tables.
+- Leading the team's AI adoption, starting with an agentic workflow that takes a Jira ticket and turns it into code, so engineers start from a draft instead of a blank file.
 
-**Tech Stack:** TypeScript, React, TanStack, Tailwind CSS, single-spa, ag-grid, Salt DS, Zedux, Playwright
+**Stack:** TypeScript, React, TanStack, Tailwind CSS, single-spa, ag-grid, Salt DS (JPMorgan's design system), Zedux, Playwright
 
----
+### Loopdoop LLC
+**Master Builder** | Jan 2024 – Present
 
-### Master Builder — Loopdoop LLC 
-**Jan 2024 – Present**
+My own company, which is how I got to pick the title. A lot of the work here goes after one problem: there's far more worth reading and listening to than anyone has time for.
 
-- Built **Juicer** & **Keeper** — a full AI content pipeline that ingests, processes, and backs up multiple platform content using multi-model AI processors (taxonomy, signals, summarization, fact-checking) with async workers and S3-compatible storage.
-- Designed and deployed a personal AI inference lab from scratch — RTX 4090 GPU passthrough on Proxmox, running and benchmarking open-source LLMs (Qwen3-32B, vLLM, llama.cpp) for real-world local inference at scale.
-- Built **ModelPK.com** & **DevsBestFriend.com**, and published open-source libraries and MCP servers (**prompts-mcp-server**, **xtract-js**, **WebRobber**).
+- **Juicer** and Keeper pull in content from several platforms, back it up to S3-compatible storage, and run every item through seven LLM stages (taxonomy, signals, summary, key takeaways, claims, mindmap, fact-check). BullMQ and Postgres underneath, React and TanStack on top.
+- **ai-hub** is the OpenAI-compatible gateway (Bun, Hono, Postgres) my other projects use to talk to models. It tracks cost per service, keeps a semantic cache, and runs long jobs async with webhook callbacks.
+- Built two multi-agent systems on the Pi Agent SDK: a review panel where a judge agent weighs what several panelists say, and an AI Research Lab where planner, researcher, analyst, evaluator, and synthesizer agents work through a question together.
+- **Podcasts Station** turns the podcasts, newsletters, and YouTube channels I follow into bilingual English/Chinese documents. It worked a little too well: I now have more to read than time to read it. So I'm building **Brewer**, which boils long transcripts and articles down to short, verified briefs.
+- RIG is my semantic search layer (LanceDB + nomic-embed).
+- Most of it runs at home on a Proxmox cluster with an RTX PRO 6000 (96GB) and an RTX 4090. I benchmark and serve open-source models there, mostly Qwen through vLLM and llama.cpp.
+- Side quests: ModelPK.com, DevsBestFriend.com, and a few open-source libraries and MCP servers (prompts-mcp-server, xtract-js, WebRobber). Currently building skl (useskl.com), one place to manage agent skills across Claude Code, Codex, Cursor, Copilot, Gemini, and Grok.
 
----
+### Haven Technologies, New York, NY
+**Senior Engineer & Tech Liaison** | Apr 2018 – Dec 2023
 
-### Senior Engineer & Tech Liaison — Haven Tech, New York, NY
-**Apr 2018 – Dec 2023**
+Built and scaled HT Underwriting, an ML-powered platform for life insurance decisions. Risk evaluation used to take weeks; we got it down to under a minute.
 
-Built and scaled the HT Underwriting platform — an ML-powered insurance decisioning system that reduced risk evaluation time from weeks to under a minute.
+- Built the multi-stage decisioning workflow for term and whole life policies, plus HUP Admin to manage the whole flow.
+- Wired in the third-party data that underwriting depends on: MIB, Milliman IntelliScript, LexisNexis, ExamOne, and APS.
+- Created Metron, a company-wide configuration management system that keeps the full history of every change.
 
-- Built the end-to-end underwriting workflow supporting multi-stage decisioning for term and whole life insurance, including the HUP Admin platform for managing the full flow.
-- Integrated with multiple third-party data providers including MIB, Milliman IntelliScript, LexisNexis, ExamOne, and APS.
-- Built Metron, a company-wide configuration management system with full history tracking.
+**Stack:** Node.js/TypeScript, Python, Angular, React, RabbitMQ, Postgres, Orca, AWS
 
-**Tech Stack:** Node.js/TS, Python, Angular/React, RabbitMQ, Postgres, Ocra, AWS
+### Yieldmo, New York, NY
+**Senior Developer & Tech Lead** | Dec 2014 – Mar 2018
 
----
+An ad platform connecting advertisers and publishers through privacy-compliant, ML-driven contextual targeting.
 
-### Senior Developer & Tech Lead — Yieldmo, New York, NY
-**Dec 2014 – Mar 2018**
+- Built core ad products: responsive ad formats, the Ads SDK, and the [Ad-Builder site](https://formats.yieldmo.com).
+- Plus the internal tools: the admin system, an A/B testing tool (YMTP), and the product feed system.
+- Co-inventor on two US patents for video ads that react to scrolling. (You've probably scrolled past one.)
 
-Worked on a privacy-compliant, ML-driven ad platform connecting advertisers and publishers with smarter contextual targeting and higher conversion rates.
+**Stack:** Java, Spring MVC, TypeScript, Angular, Express
 
-- Built and maintained core ad products including responsive ad formats, Ads SDK, and the [Ad-Builder website](https://formats.yieldmo.com).
-- Built internal tools including the Admin System, A/B Testing Tool (YMTP), and Product Feed System.
-- Held a US patent for methods of serving interactive and video advertisements to users.
+### Kforce Inc.
+**Consultant** | Jan 2010 – Dec 2014
 
-**Tech Stack:** Java, Spring MVC, TypeScript, Angular, Express.js
-
----
-
-### Consultant — Kforce Inc
-**Jan 2010 – Dec 2014**
-
-Consulted across multiple industries, delivering web platforms and internal tools for clients including Verizon, Audible, Pearson, and Barclays Capital.
+Built web platforms and internal tools for clients including Verizon, Audible, Pearson, and Barclays Capital.
 
 ---
 
 ## Education
 
-**M.S. in Computer Science** — Syracuse University, Dec 2009
+**M.S. in Computer Science**, Syracuse University, Dec 2009
 
 ---
 
 ## Patents
 
-- **Methods for serving interactive content to a user**
-  Patent No. US9966109B2 | Filed: Mar 27, 2018
-
-- **Methods for serving a video advertisement to a user**
-  Patent No. US10306336B2 | Filed: Jul 19, 2018
+- [US9966109B2](https://patents.google.com/patent/US9966109B2/en): *Methods for serving interactive content to a user*, granted May 2018
+- [US10306336B2](https://patents.google.com/patent/US10306336B2/en): *Methods for serving a video advertisement to a user*, granted May 2019
